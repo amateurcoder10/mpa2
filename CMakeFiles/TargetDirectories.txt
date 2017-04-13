@@ -1,0 +1,3 @@
+/home/pra/2sem/mp/a2/CMakeFiles/edit_cache.dir
+/home/pra/2sem/mp/a2/CMakeFiles/rebuild_cache.dir
+/home/pra/2sem/mp/a2/CMakeFiles/pan.dir
